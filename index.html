@@ -11,6 +11,8 @@
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" rel="stylesheet" >
 <link href="css/jquery.fancybox.min.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
+<meta name="Description" content="Portafolio de trabajo">
+<meta name="Keywords" content="Josue Juarez, trabajo, portafolio, arte, diseño, animación, Josue, Juarez, Azzad">
 
 </head>
 
@@ -95,7 +97,7 @@
 				<p><span>Fax: </span>+XXX-XXXX-XXX</p>
 				<p><span>Correo: </span>josuepite@gmail.com</p>			
 
-		<p>Josue Juarez 2020. Todos los derechos reservados. JosueJuarez &copy</p>
+		<p>Josue Juarez 2020. Todos los derechos reservados. JosueJuarez &copy;</p>
 	</div>
 	</section>
 </footer>	
@@ -104,5 +106,7 @@
 	<script src="js/bootstrap.min.js"></script>
 	<script src="js/jquery.min.js"></script>
 	<script src="js/jquery.fancybox.min.js"></script>
+	<script src="js/jquery.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
 </body>
 </html>

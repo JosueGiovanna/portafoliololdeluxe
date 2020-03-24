@@ -432,6 +432,12 @@ i:hover{
 .ajuste {
 	margin-top: 25%;
 }
+#contact{
+	clip-path: polygon(0 11%, 100% 0%, 100% 89%, 0 100%);
+	background-color: #131313;
+	padding: 7% 0;
+}
+
 footer {
 	background-color: #8C1F1D;
 	clip-path: polygon(0 25%, 100% 0, 100% 100%, 0 100%);
